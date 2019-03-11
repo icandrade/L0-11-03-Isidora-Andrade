@@ -1,0 +1,71 @@
+    1  git init
+    2  echo "# prueba-repositorio" >> README.md
+    3  git add README.md
+    4  git commit -m "first commit"
+    5  git remote add origin https://github.com/icandrade/prueba-repositorio.git
+    6  git push -u origin master
+    7  git clone https://github.com/icandrade/test.git
+    8  git status
+    9  cd test
+   10  cd ..
+   11  ls
+   12  cd test/
+   13  git status
+   14  git add README.md
+   15  git status
+   16  git commit -m "subi el readme"
+   17   git config --global user.email "icandrade@uc.cl"
+   18   git config --global user.name "Isidora Andrade"
+   19  git commit -m "subi el readme"
+   20  git status
+   21  git push
+   22  git status
+   23  cd Caca
+   24  git add hola.py
+   25  git commit -m "subiendo caca"
+   26  git push
+   27  git add hola.py
+   28  git commit -m "sdad"
+   29  git push
+   30  git status
+   31  cd..
+   32  cd ..
+   33  cd Actividad00
+   34  git status
+   35  git status
+   36  cd clases.py
+   37  git status
+   38  git add clases.py
+   39  git status
+   40  git commit -m "subiendo actividad"
+   41  git push
+   42  git clone
+   43  isido@DESKTOP-HD37O62 MINGW64 ~/Desktop/isidora/Progra
+   44  $ git clone
+   45  git clone https://github.com/bimartinez/repo-privado.git
+   46  python3 -m pip install --upgrade
+   47  python -m pip install --upgrade
+   48  python -m pip install --upgrade
+   49  python -m pip install --upgrade pip
+   50  python -m pip install jupyter
+   51  jupyter notebook
+   52  jupyter notebook
+   53  jupyter notebook
+   54  pip install ipython
+   55  pip install 'prompt-toolkit<2.0.0,>=1.0.15' --force-reinstall
+   56  jupyter notebook
+   57  git status
+   58  git cd repo-privado
+   59  cd repo-privado
+   60  git add Untitled.ipynb
+   61  git commit -m "subiendo tarea"
+   62  git push
+   63  git clone https://github.com/IIC2115/Syllabus.git
+   64  cd syllabus
+   65  git pull
+   66  git add *
+   67  git commit -m "Se sube txt a repositorio"
+   68  git push
+   69  git pull
+   70  doskey/History
+   71  history
